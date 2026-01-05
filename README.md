@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AbhiGupta143](https://github.com/AbhiGupta143)
 
+- All of my Tableau Dashboard are available at [https://public.tableau.com/app/profile/abhishek.gupta4184/vizzes]
+
 - 💬 Ask me about **Python,MySQL,Tableau,Excel,PowerBI,Looker Studio**
 
 - 📫 How to reach me **abhishek.gupta124143@gmail.com**
